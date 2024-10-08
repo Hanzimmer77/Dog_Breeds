@@ -1,5 +1,7 @@
 # Dog_Breeds
-This project focuses on classifying 120 dog breeds using the MobileNetV2 architecture. The model was fine-tuned on a dataset of over 10,000+ dog images, split into training, validation, and test sets. 
+This project focuses on classifying 120 dog breeds using the MobileNetV2 architecture. 
+
+The model was fine-tuned on a dataset of over 10,000+ dog images, split into training, validation, and test sets. 
 
 Leveraging transfer learning, MobileNetV2 was chosen for its lightweight structure and performance. The model was trained using the Adam optimizer and evaluated with categorical cross-entropy loss.
 
